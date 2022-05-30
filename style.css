@@ -1,0 +1,55 @@
+.bgblue_center_white
+{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    /* this class is for the footer */
+}
+
+.uni_logo{
+    width: 240px;
+    height: 150px;
+    /* for the university logo in each page */
+}
+.blackborder_100pxmargin{
+    border: 1px black solid;
+
+}
+.left_right_margins{
+    margin-left: 100px;
+    margin-right: 100px;
+    }
+.text_size{
+    font-size: 18pt;
+   }
+
+.font_change{
+       text-align: center;
+       font-family: "Monotype Corsiva";
+       
+   }
+
+footer{
+    height: 50px;
+    margin-top: 0px;
+    
+}
+.college_image_border{
+    border: 1px solid black;
+    height: 150px;
+    width:240px;
+    margin-left: 05px;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+div.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 200px;
+
+}
+p.middle{
+    padding-top: 17px;
+}
